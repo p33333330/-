@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Hand Tarot",
+  "description": "A minimalist Tarot experience controlled by hand gestures using your camera.",
+  "requestFramePermissions": ["camera"]
+}
